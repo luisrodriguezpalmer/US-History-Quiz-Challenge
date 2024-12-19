@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>US History Quiz Challenge</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f5f5f5;
+      color: #212529;
+    }
+    .header {
+      background-color: #0d6efd; /* Navy Blue */
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .btn-primary {
+      background-color: #dc3545; /* Red */
+      border-color: #dc3545;
+    }
+    .btn-primary:hover {
+      background-color: #bb2d3b;
+      border-color: #bb2d3b;
+    }
+    .btn-secondary {
+      background-color: #0d6efd; /* Navy Blue */
+      border-color: #0d6efd;
+    }
+    .btn-secondary:hover {
+      background-color: #084298;
+      border-color: #084298;
+    }
+    .result-box {
+      background-color: #e9ecef; /* Light Gray */
+      padding: 20px;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+    .question-box {
+      background-color: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <h1>Welcome to US History Quiz Challenge!</h1>
+    <p>Welcome to my US History quiz page! Here, you'll have the chance to test your knowledge about the United States, its history, culture, and symbols. Whether you're a trivia enthusiast or just looking for a fun way to learn, 
+        this quiz is for you! Ready to challenge yourself and see how much you know?.</p>
+    <button id="start-quiz" class="btn btn-primary btn-lg" onclick="displayQuestion()">Start Quiz</button>
+  </header>
+
+  <main class="container my-5">
+    <!-- Question Box -->
+    <div id="question-box" class="question-box" style="display: none;"></div>
+
+    <!-- Result Box -->
+    <div id="result-box" class="result-box" style="display: none;"></div>
+
+    <!-- Navigation Buttons -->
+    <div id="nav-buttons" class="d-flex justify-content-between mt-4" style="display: none;">
+      <button id="skip-question" class="btn btn-secondary" style="display: none;">Skip Question</button>
+      <button id="next-question" class="btn btn-primary" style="display: none;">Next Question</button>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

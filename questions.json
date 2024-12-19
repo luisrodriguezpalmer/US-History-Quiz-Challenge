@@ -1,0 +1,103 @@
+[
+    {
+      "question": "Who was the first President of the United States?",
+      "options": ["Thomas Jefferson", "George Washington", "Abraham Lincoln"],
+      "answer": "George Washington"
+    },
+    {
+      "question": "What year did the Declaration of Independence get signed?",
+      "options": ["1776", "1789", "1812"],
+      "answer": "1776"
+    },
+    {
+      "question": "Which country did the U.S. gain independence from?",
+      "options": ["France", "Spain", "Great Britain"],
+      "answer": "Great Britain"
+    },
+    {
+      "question": "What document begins with “We the People”?",
+      "options": ["The Bill of Rights", "The Declaration of Independence", "The U.S. Constitution"],
+      "answer": "The U.S. Constitution"
+    },
+    {
+      "question": "Who wrote the Declaration of Independence?",
+      "options": ["John Adams", "Thomas Jefferson", "Alexander Hamilton"],
+      "answer": "Thomas Jefferson"
+    },
+    {
+      "question": "Which U.S. war was fought between the North and the South?",
+      "options": ["The American Revolution", "The Civil War", "The War of 1812"],
+      "answer": "The Civil War"
+    },
+    {
+      "question": "Who issued the Emancipation Proclamation?",
+      "options": ["Abraham Lincoln", "Ulysses S. Grant", "George Washington"],
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "question": "What was the purpose of the Lewis and Clark expedition?",
+      "options": ["To establish colonies", "To explore the Louisiana Territory", "To fight the British"],
+      "answer": "To explore the Louisiana Territory"
+    },
+    {
+      "question": "What year was the U.S. Constitution ratified?",
+      "options": ["1776", "1787", "1791"],
+      "answer": "1787"
+    },
+    {
+      "question": "Who was President during the Great Depression and World War II?",
+      "options": ["Franklin D. Roosevelt", "Harry S. Truman", "Herbert Hoover"],
+      "answer": "Franklin D. Roosevelt"
+    },
+    {
+      "question": "What was the main cause of the American Revolution?",
+      "options": ["Taxation without representation", "Disputes over slavery", "Territorial expansion"],
+      "answer": "Taxation without representation"
+    },
+    {
+      "question": "Which state was the first to join the Union?",
+      "options": ["Massachusetts", "Delaware", "Virginia"],
+      "answer": "Delaware"
+    },
+    {
+      "question": "Which of the following were key battles in the American Revolution?",
+      "options": ["Battle of Yorktown", "Battle of Gettysburg", "Battle of Lexington and Concord", "Battle of Bunker Hill"],
+      "answer": ["Battle of Yorktown", "Battle of Lexington and Concord", "Battle of Bunker Hill"]
+    },
+    {
+      "question": "What were the main causes of the Civil War?",
+      "options": ["Slavery", "State’s rights", "Taxation policies", "Territorial disputes"],
+      "answer": ["Slavery", "State’s rights"]
+    },
+    {
+      "question": "Who were key figures during the American Revolution?",
+      "options": ["George Washington", "Thomas Paine", "Benjamin Franklin", "Andrew Jackson"],
+      "answer": ["George Washington", "Thomas Paine", "Benjamin Franklin"]
+    },
+    {
+      "question": "Which events contributed to U.S. involvement in World War II?",
+      "options": ["The attack on Pearl Harbor", "The signing of the Treaty of Versailles", "The invasion of Poland", "German U-boat attacks on U.S. ships"],
+      "answer": ["The attack on Pearl Harbor", "German U-boat attacks on U.S. ships"]
+    },
+    {
+      "question": "Which amendments are part of the Bill of Rights?",
+      "options": ["First Amendment", "Second Amendment", "Thirteenth Amendment", "Fourth Amendment"],
+      "answer": ["First Amendment", "Second Amendment", "Fourth Amendment"]
+    },
+    {
+      "question": "Who were the main Allied powers during World War II?",
+      "options": ["United States", "Soviet Union", "Germany", "United Kingdom"],
+      "answer": ["United States", "Soviet Union", "United Kingdom"]
+    },
+    {
+      "question": "What were key effects of the Louisiana Purchase?",
+      "options": ["It doubled the size of the U.S.", "It reduced British influence in North America", "It gave access to the Mississippi River", "It ended slavery in new territories"],
+      "answer": ["It doubled the size of the U.S.", "It gave access to the Mississippi River"]
+    },
+    {
+      "question": "Which leaders were involved in the Civil Rights Movement?",
+      "options": ["Martin Luther King Jr.", "Rosa Parks", "Malcolm X", "Susan B. Anthony"],
+      "answer": ["Martin Luther King Jr.", "Rosa Parks", "Malcolm X"]
+    }
+  ]
+  
